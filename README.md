@@ -1,3 +1,4 @@
+![Logo GitHub](https://i.imgur.com/7IBX3uL.png)
 Driver Updater - Version 2.0
 Driver Updater is a graphical user interface (GUI) utility designed to help Debian/Ubuntu users manage their system drivers. The application scans for available driver updates and provides an easy way to install them, ensuring your hardware runs optimally.
 
